@@ -46,7 +46,7 @@ class ViewController2: UIViewController {
         jodt.text = ""
         loc.text = "-"
         date.text = "00"
-        pNumber.text = "00"
+        pNumber.text = "€"
         year.text = "000"
         
         
